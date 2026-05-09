@@ -18,6 +18,7 @@ Deepening my knowledge in **React, API integration, and responsive design**, alo
 ### 📫 How to reach me
 
 * Email: [jannatrahman1290@gmail.com](mailto:jannatrahman1290@gmail.com)
+  
 *GitHub: [JannatRahman](https://github.com/JannatRahman)
 * LinkedIn: [https://linkedin.com/in/[jannat-amila-rahman/](https://www.linkedin.com/in/jannat-amila-rahman/)]
 
