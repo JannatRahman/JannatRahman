@@ -30,6 +30,11 @@ Deepening my knowledge in **React, API integration, and responsive design**, alo
 * React
 * Git & GitHub
 * Responsive Design
+* Nextjs
+* ExpressJs
+* Api
+* MongoDB
+  
 
 ---
 
