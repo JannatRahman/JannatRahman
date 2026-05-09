@@ -1,4 +1,5 @@
-<img width="1536" height="407" alt="ChatGPT Image Apr 8, 2026, 04_39_31 PM" src="https://github.com/user-attachments/assets/162c12c8-42bc-4ef7-beab-95dee47f2d8b" />
+<img width="2170" height="725" alt="ChatGPT Image May 9, 2026, 04_20_20 PM" src="https://github.com/user-attachments/assets/02894aa6-2333-4434-a4af-5d46e8d46756" />
+
 
 # Hi there 👋, I'm Jannat Amila Rahman
 
@@ -17,7 +18,7 @@ Deepening my knowledge in **React, API integration, and responsive design**, alo
 ### 📫 How to reach me
 
 * Email: [jannatrahman1290@gmail.com](mailto:jannatrahman1290@gmail.com)
-* GitHub: ([https://github.com/[/JannatRahman](https://github.com/jannhttps://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svgatrahman)]
+* GitHub: ([https://github.com/[/JannatRahman]([https://github.com/jannhttps://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svgatrahman](https://github.com/JannatRahman))]
 * LinkedIn: [https://linkedin.com/in/[jannat-amila-rahman/](https://www.linkedin.com/in/jannat-amila-rahman/)]
 
 ---
