@@ -1,4 +1,5 @@
-<img width="2170" height="725" alt="ChatGPT Image May 9, 2026, 04_20_20 PM" src="https://github.com/user-attachments/assets/02894aa6-2333-4434-a4af-5d46e8d46756" />
+<img width="890" height="311" alt="image" src="https://github.com/user-attachments/assets/c79937db-eefc-4ac2-9a88-12b470fa3a7f" />
+
 
 
 # Hi there 👋, I'm Jannat Amila Rahman
